@@ -1,0 +1,16 @@
+PODS:
+  - restoration (0.1.0)
+
+DEPENDENCIES:
+  - restoration (from `../`)
+
+EXTERNAL SOURCES:
+  restoration:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  restoration: 00dba075f73123ce844489028798666bc91f8513
+
+PODFILE CHECKSUM: 4f2ddbcec238c5173c318f7dbc6e607f24ebabf8
+
+COCOAPODS: 1.0.1
